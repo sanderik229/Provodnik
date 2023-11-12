@@ -1,0 +1,15 @@
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.AssemblyInfo.cs
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/Provodnik/Provodnik/bin/Debug/net7.0/Provodnik
+/Users/levonbabaan/Projects/Provodnik/Provodnik/bin/Debug/net7.0/Provodnik.deps.json
+/Users/levonbabaan/Projects/Provodnik/Provodnik/bin/Debug/net7.0/Provodnik.runtimeconfig.json
+/Users/levonbabaan/Projects/Provodnik/Provodnik/bin/Debug/net7.0/Provodnik.dll
+/Users/levonbabaan/Projects/Provodnik/Provodnik/bin/Debug/net7.0/Provodnik.pdb
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.dll
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/refint/Provodnik.dll
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.pdb
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/Provodnik.genruntimeconfig.cache
+/Users/levonbabaan/Projects/Provodnik/Provodnik/obj/Debug/net7.0/ref/Provodnik.dll
